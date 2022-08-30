@@ -1,4 +1,4 @@
-git_url("https://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@github.com/priyanshtagline/fastlane_certificate.git")
+git_url("https://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@github.com/priyanshtagline/fastlane_certificate.git")
 
 storage_mode("git")
 
