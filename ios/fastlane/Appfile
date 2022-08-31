@@ -1,8 +1,4 @@
-# app_identifier("com.example.fastlaneMatchDemo") # The bundle identifier of your app
-# apple_id("bipinsakariya74@gmail.com") # Your Apple email address
-#
-# itc_team_id("122692098") # App Store Connect Team ID
-# team_id("7639N3C25S") # Developer Portal Team ID
+
 
 
 
